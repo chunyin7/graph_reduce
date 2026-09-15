@@ -1,0 +1,4 @@
+(executable
+ (public_name graph_reduce)
+ (name main)
+ (libraries graph_reduce))
